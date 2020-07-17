@@ -1,6 +1,3 @@
-fprintf("Student 1: Piratheipan Jeyakumar, 500696109\n");
-fprintf("Student 2: Angeev Kamaleswaran, 500687303\n");
-
 % Change the below line to the location of vl_setup.m
 %run('C:/Program Files/VLFEATROOT/toolbox/vl_setup.m')
 run('/Applications/VLFEATROOT/toolbox/vl_setup.m')
@@ -111,5 +108,3 @@ image ([0 2645], [100, 2750], mosaic3);
 image ([1520 3886], [295, 2695], imgRight2A);
 title('Blended Image Bonus 3.2 After');
 fprintf("This is Bonus 3.2 Blending After\n");
-
-
